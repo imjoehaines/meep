@@ -1,0 +1,7 @@
+## Interface: 50400
+## Author: Infected Mushroom
+## Title: meep
+## Version: 1.0
+## Notes: A simple DPS tracker
+
+main.lua
