@@ -1,7 +1,7 @@
-## Interface: 50400
+## Interface: 60200
 ## Author: Infected Mushroom
 ## Title: meep
-## Version: 1.0
-## Notes: A simple DPS tracker
+## Version: 1.1
+## Notes: A simple DPS/HPS tracker
 
 main.lua
