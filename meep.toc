@@ -1,7 +1,7 @@
-## Interface: 60200
-## Author: Infected Mushroom
+## Interface: 70000
+## Author: grace
 ## Title: meep
-## Version: 1.1
+## Version: 1.2
 ## Notes: A simple DPS/HPS tracker
 
 main.lua
